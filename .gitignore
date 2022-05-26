@@ -1,3 +1,10 @@
 *.log
 *.jar
 cache
+.github
+final-exercise/
+lesson-1-streaming-dataframes/
+lesson-2-joins-and-json/
+lesson-3-redis-base64-json/
+spark/
+walkthrough/
